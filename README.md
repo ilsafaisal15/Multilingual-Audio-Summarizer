@@ -30,7 +30,7 @@ https://huggingface.co/spaces/ilsa15/multilingual-audio-summarizer
 
 In addition to the Gradio UI, this app is also deployed as a lightweight static **HTML/CSS interface** for ease of access and embedding.
 
-🖥️ Try the static web version: [🔗 Add your HTML deployment link here]  
+🖥️ Try the static web version: https://ilsafaisal15.github.io/Multilingual-Audio-Summarizer/
 📁 HTML/CSS files are included in the `web` folder of this repo for easy customization or reuse.
 
 ---
