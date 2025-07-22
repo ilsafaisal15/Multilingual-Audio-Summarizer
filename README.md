@@ -24,4 +24,15 @@ A smart AI-powered Gradio app that:
 https://huggingface.co/spaces/ilsa15/multilingual-audio-summarizer
 
 ---
+---
+
+## 🌐 HTML/CSS Frontend (Optional)
+
+In addition to the Gradio UI, this app is also deployed as a lightweight static **HTML/CSS interface** for ease of access and embedding.
+
+🖥️ Try the static web version: [🔗 Add your HTML deployment link here]  
+📁 HTML/CSS files are included in the `web` folder of this repo for easy customization or reuse.
+
+---
+
 
